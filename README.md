@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sailaopoeng
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning and AI with Python
 - 💞️ I’m looking to collaborate on javascript and python
 - 🔗 You can see visite me at https://sailaopoeng.com
 - 📫 How to reach me : https://www.linkedin.com/in/sailaopoeng/
