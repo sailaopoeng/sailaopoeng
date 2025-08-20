@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sailaopoeng
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Machine Learning and AI with Python
-- 💞️ I’m looking to collaborate on javascript and python
-- 🔗 You can see visite me at https://sailaopoeng.com
-- 📫 How to reach me : You can email me (my pesonal email is below my profile picture) or connect me at https://www.linkedin.com/in/sailaopoeng/
+- 👀 Passionate about software development
+- 🌱 Currently learning **Machine Learning** and **AI** with *Python*
+- 💞️ Open to collaborating on JavaScript and Python projects
+- 🔗 Visit me at [sailaopoeng.com](https://sailaopoeng.com)
+- 📫 Feel free to reach out via Gmail or connect with me on [LinkedIn](https://www.linkedin.com/in/sailaopoeng/)
 
 <!---
 sailaopoeng/sailaopoeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
